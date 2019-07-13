@@ -209,12 +209,7 @@ Polkadot/Substrate的共识系统。包括以下功能：
 * `at`，`enum BlockId`，在哪个区块
 * `build_ctx`，`trait BlockBuilder`，区块构造工具
 
-**需要一些专业知识**
 
-要对Substrate进行任何重要的定制/调整，您应该熟悉：
-
-* 区块链概念和基本密码学，Header，块，客户端，哈希，交易和签名等术语应该是熟悉的
-* Rust语言（尽管最终，我们的目标不是这样）。
 
 ## Libp2p
 
