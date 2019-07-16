@@ -3,3 +3,5 @@
 ## Substrate
 
 [Substrate入门](https://mp.weixin.qq.com/s?__biz=MzA5NTQyNDIyNw==&mid=2247483793&idx=1&sn=12e39b66841b4e8b454209a33d1480c7)
+
+[Substrate实践](https://mp.weixin.qq.com/s?__biz=MzA5NTQyNDIyNw==&mid=2247483806&idx=1&sn=f996a8810c899266b7401545074fd514)
