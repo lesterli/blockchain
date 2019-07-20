@@ -2,6 +2,8 @@
 
 ## Substrate
 
-[Substrate入门](https://mp.weixin.qq.com/s?__biz=MzA5NTQyNDIyNw==&mid=2247483793&idx=1&sn=12e39b66841b4e8b454209a33d1480c7)
+[Substrate入门](https://mp.weixin.qq.com/s/A3ERS9TjG4piIFOI9DvRCQ)
 
-[Substrate实践](https://mp.weixin.qq.com/s?__biz=MzA5NTQyNDIyNw==&mid=2247483806&idx=1&sn=f996a8810c899266b7401545074fd514)
+[Substrate实践](https://mp.weixin.qq.com/s/qARMcWWlGOE3GEeNMzplzQ)
+
+[Substrate共识之GRANDPA](https://mp.weixin.qq.com/s/09b3iNWS7yN9A9Wf8kygcw)
