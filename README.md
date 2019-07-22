@@ -6,8 +6,8 @@
 
 [Substrate实践](https://mp.weixin.qq.com/s/qARMcWWlGOE3GEeNMzplzQ)
 
-[Substrate共识之GRANDPA](https://mp.weixin.qq.com/s/09b3iNWS7yN9A9Wf8kygcw)
-
 ## Polkadot
+
+[Polkadot共识之GRANDPA](https://mp.weixin.qq.com/s/09b3iNWS7yN9A9Wf8kygcw)
 
 [Polkadot Staking运作方式](https://mp.weixin.qq.com/s/692lzzGmijyFfmG4bWtf-w)
